@@ -1,0 +1,11 @@
+{
+  "name": "maddie-dog",
+  "private": true,
+  "description": "Static photo site for maddie.dog",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}

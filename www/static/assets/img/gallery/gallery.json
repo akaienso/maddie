@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "slug": "grok-video-2026-06-04-19-33-06",
+      "source": "grok_video_2026-06-04-19-33-06.mp4",
+      "type": "video",
+      "date": "2026-06-04",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2026"
+    },
+    {
+      "slug": "2026-06-01-a",
+      "source": "PXL_20260601_001155250.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-06-01",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-06-01-b",
+      "source": "PXL_20260601_001207267.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-06-01",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-05-23-a",
+      "source": "PXL_20260523_164828306.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-05-23",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, May 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-05-23-b",
+      "source": "PXL_20260523_192051673.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-05-23",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, May 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-03-23-a",
+      "source": "PXL_20260323_183319580.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-03-23",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, March 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-03-23-b",
+      "source": "PXL_20260323_183322041.RAW-01.jpg",
+      "type": "image",
+      "date": "2026-03-23",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, March 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2026-02-22-a",
+      "source": "PXL_20260222_225102431.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2026-02-22",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, February 2026",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-25-a",
+      "source": "PXL_20251225_002044780.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-25",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-22-a",
+      "source": "PXL_20251222_010848225.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-22",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-20-a",
+      "source": "PXL_20251220_231336044.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-20",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-20-b",
+      "source": "PXL_20251220_231350145.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-20",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-13-a",
+      "source": "PXL_20251213_204517576.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-13",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-04-a",
+      "source": "PXL_20251204_221954716.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-12-04",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-12-04-b",
+      "source": "PXL_20251204_222024612.RAW-01.COVER-2.jpg",
+      "type": "image",
+      "date": "2025-12-04",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, December 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-11-09-a",
+      "source": "PXL_20251109_202926762.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-11-09",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, November 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-11-06-a",
+      "source": "PXL_20251106_185324405.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-11-06",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, November 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-11-05-a",
+      "source": "PXL_20251105_205106782.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-11-05",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, November 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-10-31-a",
+      "source": "PXL_20251031_231823043.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-10-31",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, October 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-10-09-a",
+      "source": "IMG_20251009_155050.jpg",
+      "type": "image",
+      "date": "2025-10-09",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, October 2025",
+      "gridW": 900,
+      "fullW": 1536
+    },
+    {
+      "slug": "pxl-20250823-192141804-raw-01-cover-animation",
+      "source": "PXL_20250823_192141804.RAW-01.COVER-ANIMATION.gif",
+      "type": "image",
+      "date": "2025-08-23",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, August 2025"
+    },
+    {
+      "slug": "2025-07-26-a",
+      "source": "IMG_20250726_154548_542.jpg",
+      "type": "image",
+      "date": "2025-07-26",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, July 2025",
+      "gridW": 900,
+      "fullW": 960
+    },
+    {
+      "slug": "2025-07-22-a",
+      "source": "PXL_20250722_144939978.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-07-22",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, July 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-07-04-a",
+      "source": "PXL_20250704_140554921.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-07-04",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, July 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-07-04-b",
+      "source": "PXL_20250704_174204754.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-07-04",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, July 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-06-20-a",
+      "source": "PXL_20250620_001837880.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-06-20",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-06-20-b",
+      "source": "PXL_20250620_001905370.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-06-20",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-06-16-a",
+      "source": "PXL_20250616_234812201.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-06-16",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-06-15-a",
+      "source": "PXL_20250615_200618255.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-06-15",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-06-07-a",
+      "source": "PXL_20250607_193148936.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-06-07",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, June 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-05-11-a",
+      "source": "PXL_20250511_223738373.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-05-11",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, May 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-05-11-b",
+      "source": "PXL_20250511_232332951.PORTRAIT.jpg",
+      "type": "image",
+      "date": "2025-05-11",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, May 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-05-11-c",
+      "source": "PXL_20250511_233215658.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-05-11",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, May 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-04-26-a",
+      "source": "PXL_20250426_204247445.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-04-26",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, April 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-04-26-b",
+      "source": "PXL_20250426_204319481.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-04-26",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, April 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-04-17-a",
+      "source": "PXL_20250417_193736970.NIGHT.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-04-17",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, April 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-03-08-a",
+      "source": "PXL_20250308_220216065.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-03-08",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, March 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-02-24-a",
+      "source": "PXL_20250224_214516289.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-02-24",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, February 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-02-09-a",
+      "source": "PXL_20250209_202145933.RAW-01.COVER.jpg",
+      "type": "image",
+      "date": "2025-02-09",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, February 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "2025-01-03-a",
+      "source": "PXL_20250103_182700567-4.jpg",
+      "type": "image",
+      "date": "2025-01-03",
+      "caption": "",
+      "alt": "Maddie the goldendoodle, January 2025",
+      "gridW": 900,
+      "fullW": 1800
+    },
+    {
+      "slug": "4920618717222644916-121",
+      "source": "-4920618717222644916_121.jpg",
+      "type": "image",
+      "date": null,
+      "caption": "",
+      "alt": "Maddie the goldendoodle",
+      "gridW": 720,
+      "fullW": 720
+    },
+    {
+      "slug": "4931865819235421224-121",
+      "source": "-4931865819235421224_121.jpg",
+      "type": "image",
+      "date": null,
+      "caption": "",
+      "alt": "Maddie the goldendoodle",
+      "gridW": 895,
+      "fullW": 895
+    },
+    {
+      "slug": "4931865819235421233-121",
+      "source": "-4931865819235421233_121.jpg",
+      "type": "image",
+      "date": null,
+      "caption": "",
+      "alt": "Maddie the goldendoodle",
+      "gridW": 720,
+      "fullW": 720
+    }
+  ]
+}
