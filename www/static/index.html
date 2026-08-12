@@ -284,7 +284,30 @@
     <button class="lb-btn lb-next" type="button" aria-label="Next photo">&#8250;</button>
   </dialog>
 
+  <dialog id="cam-modal" class="cam-modal" aria-label="Maddie Cam">
+    <div class="cam-frame">
+      <div class="cam-bar">
+        <span class="cam-title"><i class="hgi-stroke hgi-camera-video" aria-hidden="true"></i> Maddie Cam <span class="cam-live">LIVE</span></span>
+        <div class="cam-actions">
+          <button class="cam-btn cam-expand" type="button" aria-label="Fullscreen"><i class="hgi-stroke hgi-arrow-expand-01" aria-hidden="true"></i></button>
+          <button class="cam-btn cam-close" type="button" aria-label="Close">&#215;</button>
+        </div>
+      </div>
+      <div class="cam-body">
+        <iframe class="cam-stream" title="Live webcam stream of Maddie" allow="autoplay; fullscreen" loading="lazy"></iframe>
+        <div class="cam-offline" hidden>
+          <i class="hgi-bulk hgi-paw-print" aria-hidden="true"></i>
+          <p class="cam-offline-msg">Oops. Maddie wandered off.</p>
+          <p class="cam-offline-sub">The cam seems to be offline right now.</p>
+          <button class="cam-btn cam-retry" type="button">Try again</button>
+        </div>
+      </div>
+      <p class="cam-rotate"><i class="hgi-stroke hgi-camera-video" aria-hidden="true"></i> Tip: rotate your phone to landscape for the best view.</p>
+    </div>
+  </dialog>
+
   <script src="assets/js/gallery.js" defer></script>
   <script src="assets/js/theme.js" defer></script>
+  <script src="assets/js/cam.js" defer></script>
 </body>
 </html>
