@@ -335,6 +335,7 @@ img, video { max-width: 100%; height: auto; display: block; }
   padding: 1.5rem;
 }
 .cam-offline .hgi-bulk { font-size: 3rem; color: oklch(0.74 0.11 55); }
+.cam-offline[hidden] { display: none; }
 .cam-offline-msg {
   font-family: var(--font-display);
   font-weight: 900;
