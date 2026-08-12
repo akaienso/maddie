@@ -79,6 +79,22 @@ async function main() {
   }
 
   const items = [];
+  // Already-converted photos: rebuild entries from existing -grid/-full.webp pairs
+  const derivativeSlugs = [...new Set(files.filter(isDerivative).map((f) => f.replace(/-(grid|full)\.webp$/, '')))];
+  const convertedSlugs = new Set(sources.map((f) => slugOf[f]));
+  for (const slug of derivativeSlugs) {
+    if (convertedSlugs.has(slug)) continue; // being converted this run
+    const old = prevBySlug[slug] || {};
+    const m = slug.match(/^(20\d{2}-\d{2}-\d{2})/);
+    const date = old.date || (m ? m[1] : null);
+    items.push({
+      slug, source: old.source || null, type: 'image', date,
+      caption: old.caption || '',
+      alt: old.alt || `Maddie the goldendoodle${date ? ', ' + monthYear(date) : ''}`,
+      gridW: old.gridW || GRID_WIDTH, fullW: old.fullW || FULL_WIDTH,
+    });
+  }
+
   for (const source of sources) {
     const slug = slugOf[source];
     const date = parseDate(source);
